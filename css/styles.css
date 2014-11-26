@@ -1,0 +1,14 @@
+body {
+  position: relative;
+  background-position: absolute;
+  background-image: url("../img/background.jpg");
+  background-size: 100% auto;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: gray;
+	background-repeat: repeat-x;
+}
+
+h1 {
+	color: #FFFFFF;
+}
